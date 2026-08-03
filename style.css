@@ -1,0 +1,15 @@
+jumbotron {
+    padding: 2rem 1rem;
+    background-color: #76cafe;
+  }
+  #projects {
+    background-color: #72c6f7;
+  }
+  
+  .section {
+    padding-top: 5rem;
+  }
+  body {
+    background-color: #accdf5; /* biru muda */
+    margin: 0;
+}
